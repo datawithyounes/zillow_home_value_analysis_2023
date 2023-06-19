@@ -4,7 +4,7 @@
 
 I used SQL to answer these questions :
 
-- [Questions]([https://www.example.com](https://github.com/httpyns/zillow_home_value_analysis_2023/blob/main/questionnaire/README.md))
+- [Questions](https://github.com/httpyns/zillow_home_value_analysis_2023/blob/main/questionnaire/README.md))
   
 I also used SQL to create visualizations of the data. These visualizations helped me to better understand the data and to communicate my findings to others.
 - [Tableau visualizations ](https://www.example.com) </strong>
