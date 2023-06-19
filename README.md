@@ -12,7 +12,7 @@ I also used SQL to create visualizations of the data. These visualizations helpe
 
 ## Used Datasets
 
- Five key [datasets](https://github.com/httpyns/zillow_home_value_analysis_2023/tree/main/csv) for this case study
+ ### Five key [datasets](https://github.com/httpyns/zillow_home_value_analysis_2023/tree/main/csv) for this case study
 
   - <strong>home_v_state.csv</strong>: A measure of the typical home value and market changes across a given region and in quarters.
 - <strong>city_rental_prices.csv</strong>: A measure of the typical observed market rate rent across a given region in quarters.
