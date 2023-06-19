@@ -2,6 +2,8 @@
 
 <strong>In this project, I used SQL to explore Zillow's home value data. I was interested in learning more about how home values have changed over time, and what factors might be driving these changes.
 
+For more : - [Medium Article](https://httpsyns.medium.com/exploring-zillows-home-value-data-unveiling-trends-and-factors-shaping-the-real-estate-market-fc02fb147be9)
+
 I used SQL to answer these questions :
 
 - [Questions](https://github.com/httpyns/zillow_home_value_analysis_2023/blob/main/questionnaire/README.md)
