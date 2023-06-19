@@ -6,7 +6,7 @@
 
 **Email**: yagegal@gmail.com
 
-**UpWork**: upwork.com/freelancers/younesa11 
+[**UpWork**](upwork.com/freelancers/younesa11)
 
 **LinkedIn**: linkedin.com/in/younesagegal/
 
