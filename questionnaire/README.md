@@ -1,7 +1,7 @@
 
- SQL Analysis Questions
+ # SQL Analysis Questions
  
-I have uploaded a PDF file with the questions I used in my SQL Analysis.
+### I have uploaded a PDF file with the questions I used in my SQL Analysis.
 
 1. What is the average annual growth rate of home values in different states, and which cities 
 have experienced the highest growth in home values ?
@@ -19,7 +19,7 @@ different cities/states over the last year ?
 12. Which cities/states have made the most sales in the last year ?
 13. Which cities/states have made the least sales in the last year ?
 
-If you prefer the PDF, you can access the file using the link below.
+### If you prefer the PDF, you can access the file using the link below.
 
  [SQL Questions](https://drive.google.com/file/d/1Nyw70J2QqBf7TZdk--Jdb7vtsvCR4S3P/view?usp=sharing)
 
