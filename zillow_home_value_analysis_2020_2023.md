@@ -8,7 +8,7 @@
 
 [**UpWork**](upwork.com/freelancers/younesa11)
 
-**LinkedIn**: linkedin.com/in/younesagegal/
+[**LinkedIn**](linkedin.com/in/younesagegal/)
 
 #### What is the average annual growth rate of home values in different states, and which states have experienced the highest growth in home values ?
 
