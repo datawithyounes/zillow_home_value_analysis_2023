@@ -30,6 +30,7 @@ I also used SQL to create visualizations of the data. These visualizations helpe
        ##### Email : yagegal@gmail.com
        ##### [LinkedIn](https://www.linkedin.com/in/younesagegal/)
        ##### [UpWork](https://www.upwork.com/freelancers/younesa11)
+       ##### [Twitter](https://twitter.com/httpsyns)
 
 
 ## Datasets Source
