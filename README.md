@@ -31,6 +31,7 @@ I also used SQL to create visualizations of the data. These visualizations helpe
        ##### [LinkedIn](https://www.linkedin.com/in/younesagegal/)
        ##### [UpWork](https://www.upwork.com/freelancers/younesa11)
        ##### [Twitter](https://twitter.com/httpsyns)
+       ##### [Portfolio](https://datawithyounes.tech/)
 
 
 ## Datasets Source
