@@ -12,6 +12,8 @@
 
 [**Twitter**](https://twitter.com/httpsyns)
 
+[**My Portfolio**](https://datawithyounes.tech/)
+
 #### What is the average annual growth rate of home values in different states, and which states have experienced the highest growth in home values ?
 
 ````sql
