@@ -4,7 +4,7 @@
 
 **Author**: Younes AGEGAL
 
-**Email**: yagegal@gmail.com
+**Email**: contact@datawithyounes.tech
 
 [**UpWork**](https://www.upwork.com/freelancers/younesa11)
 
