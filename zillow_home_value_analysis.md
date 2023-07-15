@@ -10,7 +10,7 @@
 
 [**LinkedIn**](https://www.linkedin.com/in/younesagegal/)
 
-[**Twitter**](https://twitter.com/httpsyns)
+[**Twitter**](https://twitter.com/datawithyounes)
 
 [**My Portfolio**](https://datawithyounes.tech/)
 
