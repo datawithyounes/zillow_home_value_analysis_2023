@@ -6,7 +6,7 @@
 
 **Email**: contact@datawithyounes.tech
 
-[**UpWork**](https://www.upwork.com/freelancers/younesa11)
+[**UpWork**](https://www.upwork.com/workwith/younesa11)
 
 [**LinkedIn**](https://www.linkedin.com/in/younesagegal/)
 
